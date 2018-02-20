@@ -1,4 +1,4 @@
 # hello-world
 Mon Premier Répertoire
 
-Salut tout le monde, je suis nouveau en programmation sur GitHub. Je connais pas mal les bases en terme de sites web comme le HTML, le CSS et un minimum sur le PHP. Je suis ici pour apprendre à me développer et apprendre à programmer. J'ai déjà créé plusieurs sites web, surtout avec Wordpress. Je suis étudiant en soutien informatique. 
+Hi everyone, I'm new to programming on GitHub. I know a lot about the basics in terms of websites like HTML, CSS and a minimum on PHP. I am here to learn how to develop and learn to program. I have already created several websites, especially with Wordpress. I am a student in computer support.
